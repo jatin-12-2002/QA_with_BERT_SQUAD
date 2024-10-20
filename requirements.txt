@@ -1,0 +1,20 @@
+pytorch-transformers==1.0.0
+Flask==1.1.1
+Flask-Cors==3.0.8
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# torch==1.4.0+cu100
+# torchvision==0.5.0+cu100
+tornado==5.1.1
+tqdm==4.28.1
+traitlets==4.3.2
+transformers==2.8.0
+srsly==1.0.2
+stanfordnlp==0.2.0
+QtPy==1.5.2
+regex==2020.2.20
+requests==2.21.0
+python-dateutil==2.7.5
+python-Levenshtein
+pytorch-lamb
+pytorch-transformers
+
